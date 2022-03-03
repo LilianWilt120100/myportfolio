@@ -16,10 +16,12 @@ const Intro = () => {
                             <div class="i-title-item">Nature Lover</div>
                         </div>
                     </div>
+                    <br />
                     <p class="i-description">
-                    I'm 22 years old and I'm in professional license in web development. I obtained a scientific 
-                    baccalaureate before obtaining my computer science DUT at IUT Charlemagne in
-                    Nancy.
+                    I’m a french student in web development at IUT Charlemagne in Nancy.
+                    I'm a huge sports fan, especially football and motorsport. Sport taught me to be motivated 
+                    and respectful to the people I meet. It also allows me to clear my mind in order to better 
+                    understand my studies and my work.
                     </p>
                 </div>
 
