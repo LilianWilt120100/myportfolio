@@ -1,6 +1,7 @@
 import { useContext } from "react";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
+import DownloadButton from "./components/downloadButton/DownloadButton";
 import Intro from "./components/intro/Intro";
 import ProductList from "./components/productList/ProductList";
 import Toggle from "./components/toggle/Toggle";
@@ -13,11 +14,13 @@ const App = () => {
     return <div style={{
       backgroundColor:darkMode ? "#222" : "white", 
       color:darkMode && "white"}}>
+    
       <Toggle />
       <Intro />
       <About />
       <ProductList />
       <Contact />
+      <DownloadButton />
       </div>;
   };
   

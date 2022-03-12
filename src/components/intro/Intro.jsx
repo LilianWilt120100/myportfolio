@@ -18,7 +18,7 @@ const Intro = () => {
                     </div>
                     <br />
                     <p class="i-description">
-                    I’m a french student in web development at IUT Charlemagne in Nancy.
+                    I’m a french student in web development at University Institute of Technology Charlemagne in Nancy.
                     I'm a huge sports fan, especially football and motorsport. Sport taught me to be motivated 
                     and respectful to the people I meet. It also allows me to clear my mind in order to better 
                     understand my studies and my work.

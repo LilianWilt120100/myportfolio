@@ -8,8 +8,7 @@ const ProductList =()=>{
             <div class="pl-texts">
                 <h1 class="pl-title">My projects</h1>
                 <p class="pl-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, dolore earum nostrum quos harum totam quidem placeat deserunt laboriosam ipsa, fugit a. Quisquam exercitationem recusandae ducimus illum officia error quo.
-                </p>
+                Here you can see some projects made during my studies. Do not hesitate to take a look at it by clicking on it in order to be able to see the source code.                </p>
             </div>
             <div class="pl-list">
                 {products.map((item)=>(
